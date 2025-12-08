@@ -1,17 +1,11 @@
-# FRONT LINE PHP Building modern applications with PHP 8
+# Building Modern Applications with PHP 8
+---
+Classic PHP book 《Front Line PHP》translated with Chinese.
+
+To report errors, please make an issue, thanks.
 
 ---
-
-**Author:** Brent Roose  
-**Published:** 2020 by Spatie  
-**Version:** 5bc80b1-4
-
-**Reviewers:** Freek Van der Herten, Matthias Noback, Stephen Moon, Wouter Brouwers  
-**Design & Composition:** Sebastian De Deyne, Willem Van Bockstal This book is a distillation of the lessons learned by the Spatie team the past three years: Adriaan, Alex, Brent, Jef, Freek, Niels, Rias, Ruben, Sebastian, Willem, and Wouter.
-
-To report errors, please send a note to info@spatie.be.
-
----
+# 中英对照版
 
 ## Table of Contents
 
@@ -55,5 +49,11 @@ To report errors, please send a note to info@spatie.be.
 
 ---
 
-## Quick Reference For a quick summary of all the new and fancy PHP syntax, you can head over to [https://front-line-php.com/cheat-sheet](https://front-line-php.com/cheat-sheet) and browse our handy cheat-sheet.
 
+ # 中译版
+- [目录](./full-chinesed-version)
+
+> 部分代码格式尚需微调
+ # 英文版
+
+ - [PDF](./Front-Line-PHP-Book.pdf)
