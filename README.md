@@ -10,16 +10,16 @@ To report errors, please make an issue, thanks.
 ## Table of Contents
 
 ### Foreword
-- [Foreword](./foreword.md)
+- [Foreword ✅](./foreword.md)
 
 ### Preface
-- [Preface](./preface.md)
+- [Preface ✅](./preface.md)
 
 ### PART I: PHP, the Language
-- [01. PHP Today](./part-i-php-the-language/chapter-01-php-today.md)
-- [02. New Versions](./part-i-php-the-language/chapter-02-new-versions.md)
-- [03. PHP's Type System](./part-i-php-the-language/chapter-03-phps-type-system.md)
-- [04. Static Analysis](./part-i-php-the-language/chapter-04-static-analysis.md)
+- [01. PHP Today ✅](./part-i-php-the-language/chapter-01-php-today.md)
+- [02. New Versions ✅](./part-i-php-the-language/chapter-02-new-versions.md)
+- [03. PHP's Type System ✅](./part-i-php-the-language/chapter-03-phps-type-system.md)
+- [04. Static Analysis ✅](./part-i-php-the-language/chapter-04-static-analysis.md)
 - [05. Property Promotion](./part-i-php-the-language/chapter-05-property-promotion.md)
 - [06. Named Arguments](./part-i-php-the-language/chapter-06-named-arguments.md)
 - [07. Attributes](./part-i-php-the-language/chapter-07-attributes.md)
